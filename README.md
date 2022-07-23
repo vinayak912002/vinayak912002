@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vinayak912002
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on something which a begginer can do.
+- 👀 I’m interested in exploring the unknown.
+- 🌱 I’m currently learning DSA using java.
 - 📫 Mail me @vinayak912002@gmail.com
 
 <!---
