@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinayak912002
+- 👋 Hi, I’m Vinayak 
 - 👀 I’m interested in exploring the unknown.
 - 📫 Mail me @vinayak912002@gmail.com
 
